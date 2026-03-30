@@ -1,1 +1,4 @@
-
+On Tue Mar 31 12:22:08 AM IST 2026, I believe in open source because of Python.
+Freedom means using, modifying, and sharing software without restrictions.
+I want to build secure web applications for healthcare systems.
+Open source = collaboration.
