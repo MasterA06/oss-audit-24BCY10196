@@ -1,1 +1,8 @@
+Total errors: 93
+grep: /var/log/syslog: binary file matches
 
+2026-03-28T10:34:28.143086+00:00 aniket-VMware-Virtual-Platform pipewire[2833]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2026-03-28T10:34:28.993739+00:00 aniket-VMware-Virtual-Platform gnome-session[3118]: gnome-session-binary[3118]: GnomeDesktop-WARNING: Could not create transient scope for PID 3137: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Failed to set unit properties: No such process
+2026-03-28T10:34:28.994181+00:00 aniket-VMware-Virtual-Platform gnome-session-binary[3118]: GnomeDesktop-WARNING: Could not create transient scope for PID 3137: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Failed to set unit properties: No such process
+2026-03-28T10:34:29.021042+00:00 aniket-VMware-Virtual-Platform gnome-session[3118]: gnome-session-binary[3118]: GnomeDesktop-WARNING: Could not create transient scope for PID 3154: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Failed to set unit properties: No such process
+2026-03-28T10:34:29.021151+00:00 aniket-VMware-Virtual-Platform gnome-session-binary[3118]: GnomeDesktop-WARNING: Could not create transient scope for PID 3154: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Failed to set unit properties: No such process
