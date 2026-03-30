@@ -1,1 +1,8 @@
-a
+---- System Identity Report ----
+Hostname: aniket-VMware-Virtual-Platform
+User: aniket
+OS: Ubuntu 24.04.4 LTS
+Kernel: 6.17.0-19-generic
+Uptime: up 2 hours, 53 minutes
+Date: Tue Mar 31 12:06:35 AM IST 2026
+License: GNU GPL
