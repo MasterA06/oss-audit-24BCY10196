@@ -74,8 +74,7 @@ Takes user input and generates a manifesto text file describing beliefs about op
 - Ubuntu / Debian Linux
 - Bash shell
 - Python3 (used as an example package in Script 2)
-- No additional packages needed — only Python standard library is used
-
+  
 ### Steps
 
 **1. Clone the repository**
