@@ -116,17 +116,24 @@ cd oss-audit-[rollnumber]/scripts
 
 ## Dependencies
 
-All scripts use only Python's standard library — no pip installs required.
+All scripts use built-in Linux commands — no external packages or installations are required.
 
-| Module | Used in | Purpose |
+| Command | Used in | Purpose |
 |--------|---------|---------|
-| platform | Script 1 | Get OS and kernel info |
-| getpass | Script 1 | Get current username |
-| datetime | Script 1, 5 | Get current date/time |
-| os | Script 1, 3, 4, 5 | File paths, env variables |
-| shutil | Script 2 | Check binary exists in PATH |
-| subprocess | Script 2, 3 | Run shell commands |
-| sys | Script 4 | Command-line arguments |
+| hostname | Script 1 | Get system hostname |
+| whoami | Script 1 | Get current user |
+| lsb_release | Script 1 | Get OS information |
+| uname | Script 1 | Get kernel version |
+| uptime | Script 1 | Get system uptime |
+| date | Script 1, 5 | Get current date and time |
+| dpkg | Script 2 | Check if package is installed |
+| apt | Script 2 | Retrieve package details |
+| grep | Script 2, 4 | Search and filter text |
+| df | Script 3 | Display disk usage |
+| ls | Script 3 | Show file/directory permissions |
+| du | Script 3 | Calculate file sizes |
+| sort | Script 3 | Sort output data |
+| head | Script 3 | Display top results |
 
 ---
 
